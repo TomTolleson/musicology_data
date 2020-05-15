@@ -1,3 +1,7 @@
 2020.05.14 20:30:04 INFO  started: Metals version 0.9.0 in workspace '/home/tom/Documents/projects/musicology_data'
 2020.05.14 20:30:04 INFO  time: initialize in 0.71s
 2020.05.14 20:30:06 WARN  no build tool detected in workspace '/home/tom/Documents/projects/musicology_data'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.14 20:34:57 INFO  shutting down Metals
+2020.05.14 20:38:40 INFO  started: Metals version 0.9.0 in workspace '/home/tom/Documents/projects/musicology_data'
+2020.05.14 20:38:41 INFO  time: initialize in 1.05s
+2020.05.14 20:38:44 WARN  no build tool detected in workspace '/home/tom/Documents/projects/musicology_data'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 

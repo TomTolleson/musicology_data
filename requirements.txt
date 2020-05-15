@@ -1,0 +1,4 @@
+###### Requirements without  Version Specifiers ######`
+pandas             # Version latest
+music21            # Version latest
+numpy             # Version latest
